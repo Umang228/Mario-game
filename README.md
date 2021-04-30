@@ -23,12 +23,6 @@ It is important to download the correct versions! Use the Python2.6 versions
 for this game.
 
 
-Project page.
-*********************************
-https://sourceforge.net/projects/supermariobrosp/
-
-
-
 *********************************
 This file is part of Super Mario Bros. Python.
 
